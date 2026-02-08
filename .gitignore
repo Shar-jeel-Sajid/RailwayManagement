@@ -1,0 +1,39 @@
+# Compiled binaries
+*.exe
+main
+oop_final
+
+# Data files (generated at runtime)
+*.txt
+user.txt
+station.txt
+tracks.txt
+trains.txt
+booking.txt
+business.txt
+economy.txt
+executive.txt
+LahoreExp
+KarachiExp
+PindiExpress
+
+# Temp files
+tempCodeRunnerFile.cpp
+
+# Junk/test files
+22
+3
+423
+ali
+df
+effdh
+good
+press
+yeah
+
+# IDE
+.vscode/settings.json
+
+# OS files
+.DS_Store
+Thumbs.db
